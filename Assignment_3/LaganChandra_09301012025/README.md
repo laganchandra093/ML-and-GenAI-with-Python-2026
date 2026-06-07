@@ -1,0 +1,3 @@
+Student: Lagan Chandra
+Enrollment Number: 09301012025
+College Name: IGDTUW (INDIRA GANDHI TECHNICAL UNIVERSITY FOR WOMEN)
